@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 01 Apr 2020 pada 08.33
+-- Waktu pembuatan: 19 Bulan Mei 2020 pada 07.34
 -- Versi server: 10.1.38-MariaDB
 -- Versi PHP: 7.3.4
 
@@ -253,7 +253,7 @@ ALTER TABLE `petugaspajak`
 -- AUTO_INCREMENT untuk tabel `wajibpajak`
 --
 ALTER TABLE `wajibpajak`
-  MODIFY `idnpwp` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `idnpwp` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- Ketidakleluasaan untuk tabel pelimpahan (Dumped Tables)
